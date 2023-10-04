@@ -1,0 +1,19 @@
+Artist,Song1,Song2,Song3,Song4
+Metro Boomin,Self Love,No More,Trance,Around Me
+YNW Melly,Catching Feeling,Suicidal,772 Love,Like the 80's
+NF,Let You Down,Real,Mansion,Oh You Special
+Lil Baby,Grace,Humble,Russian Roulette,Chastised
+Lil Durk,Movement,What Happened To Virgil,Hellcats and TrackHawks,Changes
+Cardi B,Bodak Yellow,I Like It,Money,Be Careful
+Drake,God's Plan,In My Feelings,Started From the Bottom,Hotline Bling
+Travis Scott,Sicko Mode,Goosebumps,Stargazing,Antidote
+Megan Thee Stallion,Savage,Big Ole Freak,Body,Girls in the Hood
+J. Cole,No Role Models,Love Yourz,G.O.M.D.,ATM
+Kendrick Lamar,HUMBLE.,Alright,DNA.,King Kunta
+Nicki Minaj,Super Bass,Anaconda,Starships,Chun-Li
+Kanye West,Stronger,Gold Digger,Power,Heartless
+Post Malone,Rockstar (feat. 21 Savage),Circles,Congratulations,White Iverson
+Future,Mask Off,March Madness,Turn On The Lights,Life Is Good (feat. Drake)
+Lil Wayne,Lollipop,A Milli,6 Foot 7 Foot,Love Me (feat. Drake, Future)
+Travis Scott,Butterfly Effect,Sicko Mode,Stargazing,Stop Trying to Be God
+Jay-Z,99 Problems,N***** in Paris (with Kanye West),Hard Knock Life (Ghetto Anthem),Big Pimpin'

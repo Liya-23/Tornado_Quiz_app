@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hip Hop Quiz</title>
+    <link rel="stylesheet" href="/web/static/songs.css">
+</head>
+<body>
+    <div class="container">
+        <div class="starter">
+            <form action="">
+                <input type="submit" name="buttons" value="Play">
+            </form>
+        </div>
+
+        <h2> {{ artist }} </h2>
+        
+        <h4> {{ question }} </h4>
+
+        <div class="answers">
+            <input type="submit" name="button_a" value="">
+            <input type="submit" name="button_b" value="">
+            <input type="submit" name="button_c" value="">
+            <input type="submit" name="button_d" value="">
+        </div>
+
+        <form action="">
+            <input type="submit" name="buttons" value="Next">
+        </form>
+
+        <h4>{{ score }}</h4>
+    </div>
+</body>
+</html>
